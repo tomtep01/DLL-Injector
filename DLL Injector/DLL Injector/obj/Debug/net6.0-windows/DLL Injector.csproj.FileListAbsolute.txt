@@ -1,0 +1,17 @@
+C:\Users\Admin\source\repos\DLL Injector\DLL Injector\bin\Debug\net6.0-windows\DLL Injector.exe
+C:\Users\Admin\source\repos\DLL Injector\DLL Injector\bin\Debug\net6.0-windows\DLL Injector.deps.json
+C:\Users\Admin\source\repos\DLL Injector\DLL Injector\bin\Debug\net6.0-windows\DLL Injector.runtimeconfig.json
+C:\Users\Admin\source\repos\DLL Injector\DLL Injector\bin\Debug\net6.0-windows\DLL Injector.dll
+C:\Users\Admin\source\repos\DLL Injector\DLL Injector\bin\Debug\net6.0-windows\DLL Injector.pdb
+C:\Users\Admin\source\repos\DLL Injector\DLL Injector\obj\Debug\net6.0-windows\DLL Injector.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\DLL Injector\DLL Injector\obj\Debug\net6.0-windows\DLL_Injector.Form1.resources
+C:\Users\Admin\source\repos\DLL Injector\DLL Injector\obj\Debug\net6.0-windows\DLL Injector.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\DLL Injector\DLL Injector\obj\Debug\net6.0-windows\DLL Injector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\DLL Injector\DLL Injector\obj\Debug\net6.0-windows\DLL Injector.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\DLL Injector\DLL Injector\obj\Debug\net6.0-windows\DLL Injector.AssemblyInfo.cs
+C:\Users\Admin\source\repos\DLL Injector\DLL Injector\obj\Debug\net6.0-windows\DLL Injector.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DLL Injector\DLL Injector\obj\Debug\net6.0-windows\DLL Injector.dll
+C:\Users\Admin\source\repos\DLL Injector\DLL Injector\obj\Debug\net6.0-windows\refint\DLL Injector.dll
+C:\Users\Admin\source\repos\DLL Injector\DLL Injector\obj\Debug\net6.0-windows\DLL Injector.pdb
+C:\Users\Admin\source\repos\DLL Injector\DLL Injector\obj\Debug\net6.0-windows\DLL Injector.genruntimeconfig.cache
+C:\Users\Admin\source\repos\DLL Injector\DLL Injector\obj\Debug\net6.0-windows\ref\DLL Injector.dll
