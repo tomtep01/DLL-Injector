@@ -1,0 +1,21 @@
+C:\Users\Admin\source\repos\DLL Injector VB NET Core\DLL Injector VB NET Core\bin\Debug\netcoreapp3.1\DLL Injector VB NET Core.exe
+C:\Users\Admin\source\repos\DLL Injector VB NET Core\DLL Injector VB NET Core\bin\Debug\netcoreapp3.1\DLL Injector VB NET Core.deps.json
+C:\Users\Admin\source\repos\DLL Injector VB NET Core\DLL Injector VB NET Core\bin\Debug\netcoreapp3.1\DLL Injector VB NET Core.runtimeconfig.json
+C:\Users\Admin\source\repos\DLL Injector VB NET Core\DLL Injector VB NET Core\bin\Debug\netcoreapp3.1\DLL Injector VB NET Core.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\DLL Injector VB NET Core\DLL Injector VB NET Core\bin\Debug\netcoreapp3.1\DLL Injector VB NET Core.dll
+C:\Users\Admin\source\repos\DLL Injector VB NET Core\DLL Injector VB NET Core\bin\Debug\netcoreapp3.1\DLL Injector VB NET Core.pdb
+C:\Users\Admin\source\repos\DLL Injector VB NET Core\DLL Injector VB NET Core\obj\Debug\netcoreapp3.1\DLL Injector VB NET Core.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\DLL Injector VB NET Core\DLL Injector VB NET Core\obj\Debug\netcoreapp3.1\DLL_Injector_VB_NET_Core.Form1.resources
+C:\Users\Admin\source\repos\DLL Injector VB NET Core\DLL Injector VB NET Core\obj\Debug\netcoreapp3.1\DLL Injector VB NET Core.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\DLL Injector VB NET Core\DLL Injector VB NET Core\obj\Debug\netcoreapp3.1\DLL Injector VB NET Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\DLL Injector VB NET Core\DLL Injector VB NET Core\obj\Debug\netcoreapp3.1\DLL Injector VB NET Core.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\DLL Injector VB NET Core\DLL Injector VB NET Core\obj\Debug\netcoreapp3.1\DLL Injector VB NET Core.AssemblyInfo.cs
+C:\Users\Admin\source\repos\DLL Injector VB NET Core\DLL Injector VB NET Core\obj\Debug\netcoreapp3.1\DLL Injector VB NET Core.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DLL Injector VB NET Core\DLL Injector VB NET Core\obj\Debug\netcoreapp3.1\DLL Injector VB NET Core.dll
+C:\Users\Admin\source\repos\DLL Injector VB NET Core\DLL Injector VB NET Core\obj\Debug\netcoreapp3.1\DLL Injector VB NET Core.pdb
+C:\Users\Admin\source\repos\DLL Injector VB NET Core\DLL Injector VB NET Core\obj\Debug\netcoreapp3.1\DLL Injector VB NET Core.genruntimeconfig.cache
+C:\Users\Admin\source\repos\DLL Injector VB NET Core\DLL Injector VB NET Core\bin\Debug\netcoreapp3.1\System.ServiceProcess.ServiceController.dll
+C:\Users\Admin\source\repos\DLL Injector VB NET Core\DLL Injector VB NET Core\bin\Debug\netcoreapp3.1\Topshelf.dll
+C:\Users\Admin\source\repos\DLL Injector VB NET Core\DLL Injector VB NET Core\bin\Debug\netcoreapp3.1\TopShelf.ServiceInstaller.dll
+C:\Users\Admin\source\repos\DLL Injector VB NET Core\DLL Injector VB NET Core\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.ServiceProcess.ServiceController.dll
+C:\Users\Admin\source\repos\DLL Injector VB NET Core\DLL Injector VB NET Core\obj\Debug\netcoreapp3.1\DLL Injector VB NET Core.csproj.CopyComplete
